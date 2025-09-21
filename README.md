@@ -1,7 +1,5 @@
 <!-- Profile Photo -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/serdaryyildiz?v=4" width="120" style="border-radius:50%;" alt="Serdar Yıldız's profile photo" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Serdar Yıldız 👋</h1>
 
