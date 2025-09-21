@@ -53,7 +53,3 @@
 - 🎮 Enjoy playing computer games in my free time.
 
 ---
-
-<p align="center">
-  <em>Let's build something great together!</em>
-</p>
